@@ -1,7 +1,7 @@
 # UPD_plotter
 Script to display Uniparental Disomies (UPD) on ideograms, based on trio exome/genome vcf
 
-
+ 
 ## Requirements
 bcftools to manage variants : https://github.com/samtools/bcftools<br>
 tagore to plot ideograms : https://github.com/jordanlab/tagore
